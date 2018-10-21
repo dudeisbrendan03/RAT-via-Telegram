@@ -8,4 +8,4 @@ pillow
 pyinstaller
 pyaudio
 psutil
-cv2
+opencv-python
